@@ -158,6 +158,7 @@
     .header .menu-item {
         display: inline-block;
         vertical-align: top;
+        margin-right: -4 px;
         padding: 0 27px;
         font-size: 14px;
     }
