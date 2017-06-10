@@ -40,6 +40,7 @@
         left: 145px;
         top: 22px;
         color: #ead4aa;
+        font-style: italic;
     }
     
     h2 {
@@ -170,9 +171,6 @@
         line-height: 40px;
         font-family: Georgia, 'Times New Roman', Times, serif;
     }
-    /*.header .mainmenu .menu-item {
-            display: inline-block;
-            outline: 1px dotted red;*/
     
     .header .menu-item.active {
         background: url(../images/bg_menu-item-active.png);
